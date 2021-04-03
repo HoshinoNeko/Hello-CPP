@@ -1,0 +1,3 @@
+/home/hoshino/CLionProjects/awesome/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hoshino/CLionProjects/awesome/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hoshino/CLionProjects/awesome/cmake-build-debug/CMakeFiles/awesome.dir
